@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @callersanti
-- 👀 I’m interested in Digital Marketing, Programming and everything related to tech
-- 🌱 I’m currently learning on Platzi. Git and GitHub
-- 💞️ I’m looking to collaborate on projects about my interest
-- 📫 How to reach me? @callersanti in all social media :3
+- 👀 I’m interested in programming and data analysis.
+- 🌱 I’m currently learning on Platzi. 
+- 💞️ I’m looking to collaborate on projects about my interests.
+- 📫 How to reach me? @callersanti in all social media.
 
 <!---
 callersanti/callersanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
